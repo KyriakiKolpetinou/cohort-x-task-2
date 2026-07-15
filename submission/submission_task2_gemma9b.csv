@@ -1,0 +1,2922 @@
+eligibility_criteria,structured
+"Inclusion Criteria:
+
+1. Accepted for cardiac-, valve- and aortic surgery
+2. Circulatory stable
+3. Male and female
+4. any BMI
+5. Age 18-80
+
+Exclusion Criteria:
+
+1. Significant left carotid artery stenosis (\&gt; 50%)
+2. Carotid stent or has had surgery to the left carotid artery
+3. Emergency surgery
+4. Hemodynamic unstable","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""surgery type"" — ""accepted for cardiac-, valve- and aortic surgery""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""hemodynamic status"" — ""circulatory stable""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""gender"" — ""male or female""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""BMI"" — ""any BMI""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 5""
+
+""Inclusion Criterion 5"" — ""age range"" — ""18-80 years old""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""carotid stenosis"" — ""significant left carotid artery stenosis (>50%)""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""carotid intervention"" — ""carotid stent or has had surgery to the left carotid artery""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""surgery type"" — ""emergency surgery""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""hemodynamic status"" — ""hemodynamically unstable"""
+"Inclusion Criteria:
+
+* Distal biliary strictures,
+* A prior failed attempt at biliary drainage
+* informed consent provided by the patient.
+
+Patient exclusion criteria were as follows:
+
+* younger than age 18 years,
+* coagulopathy (international normalized ratio \>1.5, marked thrombocytopenia with a platelet count \<50,000/mL, or patient on anticoagulation therapy),
+* critical illness.","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""diagnosis"" — ""distal biliary strictures""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""prior treatment"" — ""prior failed attempt at biliary drainage""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""consent"" — ""informed consent provided by the patient""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""age"" — ""less than 18 years""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""coagulopathy"" — ""international normalized ratio >1.5, marked thrombocytopenia (platelet count <50,000/mL), or anticoagulation therapy""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""clinical status"" — ""critical illness"""
+"Inclusion Criteria:
+
+* Primary or revision total shoulder arthroplasty with or without subscapularis tenotomy
+* Primary or revision reverse shoulder arthroplasty with or without subscapularis tenotomy
+* English speaking patients only
+* Shoulder arthroplasty within the last 5 years
+
+Exclusion Criteria:
+
+* Revision shoulder arthroplasty for infection
+* Pregnancy","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""procedure"" — ""Primary or revision total shoulder arthroplasty with or without subscapularis tenotomy""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""procedure"" — ""Primary or revision reverse shoulder arthroplasty with or without subscapularis tenotomy""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""language"" — ""English speaking""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""procedure timing"" — ""Shoulder arthroplasty within the last 5 years""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""revision reason"" — ""Revision shoulder arthroplasty for infection""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""pregnancy"" — ""Yes"""
+"Inclusion Criteria:
+
+* Consecutive IVT-treated stroke patients without ongoing anticoagulation therapy registered in our stroke database presenting probable CAA on pre-IVT MRI
+* Patient taken in charge at the CHU of Nîmes between January 2015 and July 2022
+
+Exclusion Criteria:
+
+* patients with ongoing anticoagulation therapy","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""patient population"" — ""consecutive IVT-treated stroke patients""
+
+""Inclusion Criterion 1"" — ""anticoagulation status"" — ""without ongoing anticoagulation therapy""
+
+""Inclusion Criterion 1"" — ""data source"" — ""registered in our stroke database""
+
+""Inclusion Criterion 1"" — ""imaging finding"" — ""probable CAA on pre-IVT MRI""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""hospital location"" — ""taken in charge at the CHU of Nîmes""
+
+""Inclusion Criterion 2"" — ""timeframe"" — ""between January 2015 and July 2022""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""anticoagulation status"" — ""patients with ongoing anticoagulation therapy"""
+"Inclusion Criteria:
+
+* Patients with ASA classification I-III,
+* Aged 20-80 years
+* Who will be scheduled for hip arthroplasty under general anesthesia.
+
+Exclusion Criteria:
+
+* Patients who have a history of bleeding diathesis,
+* Take anticoagulant therapy,
+* History of chronic pain before surgery,
+* Multiple trauma,
+* Who cannot assess their pain (dementia),
+* Who have been operated under spinal or epidural anesthesia,
+* Who have an infection in the area and do not accept the procedure","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""ASA classification"" — ""I-III""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""age"" — ""20-80 years""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""surgery type"" — ""scheduled for hip arthroplasty under general anesthesia""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""bleeding risk"" — ""history of bleeding diathesis""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""anticoagulation"" — ""taking anticoagulant therapy""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""pre-existing pain"" — ""history of chronic pain before surgery""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""multiple trauma"" — ""Yes""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""cognitive impairment"" — ""cannot assess their pain (dementia)""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""spinal/epidural anesthesia"" — ""previous surgery under spinal or epidural anesthesia""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 7""
+
+""Exclusion Criterion 7"" — ""infection"" — ""infection in the surgical area""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 8""
+
+""Exclusion Criterion 8"" — ""consent"" — ""does not accept the procedure"""
+"Inclusion Criteria: -
+
+* Adult patients of aged more than 18 years old ASA ""American Society of Anaesthesia""
+* physical status I or II under-going any unilateral knee arthroscopy. Exclusion Criteria: -
+* patient refusal.
+* Pre-existing pain ; postoperative pain similar to preoperative pain
+* Known contraindications to peripheral nerve block, including local skin infections, bleeding diathesis, and coagulopathy.
+* Allergies to local anesthetics, dexmedetomidine, or any component of multimodal analgesia.","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""age"" — ""more than 18 years old""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""ASA physical status"" — ""ASA I or II""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""procedure"" — ""unilateral knee arthroscopy""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""patient refusal"" — ""Yes""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""pre-existing pain"" — ""pre-existing pain; postoperative pain similar to preoperative pain""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""nerve block contraindications"" — ""known contraindications to peripheral nerve block, including local skin infections, bleeding diathesis, and coagulopathy""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""drug allergies"" — ""allergies to local anesthetics, dexmedetomidine, or any component of multimodal analgesia"""
+"Inclusion Criteria:
+
+* American Society of Anesthesiologists (ASA) physical condition I-II-III
+* Patients are required general anesthesia with tracheal intubation for bariatric surgery.
+
+Exclusion Criteria:
+
+* Patients with maxillofacial deformity, trauma, or tumor
+* Patients with identified difficult airway or difficult airway history
+* Patients with cancellation of tracheal intubation for a non-difficult airway reason","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""ASA physical status"" — ""I-II-III""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""anesthesia type"" — ""requires general anesthesia with tracheal intubation for bariatric surgery""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""maxillofacial condition"" — ""maxillofacial deformity, trauma, or tumor""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""difficult airway"" — ""identified difficult airway or difficult airway history""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""non-difficult airway cancellation"" — ""cancellation of tracheal intubation for a non-difficult airway reason"""
+"Inclusion Criteria:
+
+1. 16 to 80 years of age;
+2. symptoms and confirmatory signs of lumbar radiculopathy that persisted for at least 6 weeks;
+3. LDH at a corresponding level and side on imaging;
+4. surgical candidates for epidural steroid injection (ESI) or percutaneous endoscopic lumbar discectomy (PELD). If the patient underwent ESI and PELD surgery on the same day, we only selected the data for the first one.
+
+Exclusion Criteria:
+
+1. other diseases affecting the spine (tumor, infection, metabolic disease, immune system disease and fractures);
+2. body mass index (BMI) greater than 32 kg/m2;
+3. pregnancy;
+4. refusal to participate;
+5. severe mental illnesses in the trial.","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""age"" — ""16 to 80 years""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""radiculopathy duration"" — ""symptoms and confirmatory signs of lumbar radiculopathy persisting for at least 6 weeks""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""imaging correlation"" — ""LDH at a corresponding level and side on imaging""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""surgical candidacy"" — ""surgical candidates for epidural steroid injection (ESI) or percutaneous endoscopic lumbar discectomy (PELD); if both procedures performed on the same day, data from the first one is selected""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""spinal diseases"" — ""other diseases affecting the spine (tumor, infection, metabolic disease, immune system disease, and fractures)""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""BMI"" — ""body mass index (BMI) greater than 32 kg/m2""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""pregnancy"" — ""pregnancy""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""refusal"" — ""refusal to participate""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""mental illness"" — ""severe mental illnesses"""
+"Inclusion Criteria:
+
+* Mild cognitive impairment or mild (early-stage) AD diagnosis through medical record review
+* Agreement to participate in a clinical and brain imaging study.
+* Age 55 years or older.
+* No significant cerebrovascular disease as determined by a modified Ischemic Score of ≤ 4.
+* Availability of a study partner (next of kin, family member) to attend all visits and to provide surrogate consent should it be determined that the participant does not have capacity.
+* Adequate visual and auditory acuity to allow neuropsychological testing.
+* Screening laboratory tests and ECG without significant abnormalities that might interfere with the study.
+* Use of cholinesterase inhibitors for AD (Aricept, Namenda, etc.) will be allowed as long as the participant has been on a stable dose for at least two months.
+* There must be a family member or caregiver available to make sure the participant gives informed consent, and in case the participant develops cognitive impairment that interferes with independent study participation.
+
+Exclusion Criteria:
+
+* Evidence of any other major neurologic or other physical illness that could produce cognitive deterioration, except for mild cognitive impairment (MCI) and any history of stroke or diabetes.
+* History of myocardial infarction within the previous year or unstable cardiac disease.
+* Uncontrolled hypertension (systolic BP \> 170 or diastolic BP \> 100), history of significant liver disease, clinically significant pulmonary disease, diabetes, or cancer.
+* Major psychiatric disorders, such as bipolar disorder or schizophrenia, or persons with current untreated major depression
+* Current diagnosis or significant history of alcoholism or drug dependence.
+* Participants taking medications known to influence cognitive functioning will be excluded. Medications that will be excluded include: centrally active beta-blockers, narcotics, clonidine, anti-Parkinsonian medications, benzodiazepines, systemic corticosteroids, and medications with significant anticholinergic effects, anti-convulsants, or warfarin. During the screening visit, physicians will review all medications and determine whether the type, dose, and interaction of medications are likely to impact cognition and determine exclusion based on these factors.
+* Use of any investigational drugs within the previous month or longer, depending on the drug's half-life.
+* Contraindication for fMRI scan (e.g. metal in body, claustrophobia).","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""diagnosis"" — ""mild cognitive impairment or mild (early-stage) AD""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""study participation"" — ""agreement to participate in clinical and brain imaging study""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""age"" — ""≥ 55 years""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""cerebrovascular disease"" — ""modified Ischemic Score ≤ 4""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 5""
+
+""Inclusion Criterion 5"" — ""study partner"" — ""availability of a study partner (next of kin, family member)""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 6""
+
+""Inclusion Criterion 6"" — ""sensory acuity"" — ""adequate visual and auditory acuity for neuropsychological testing""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 7""
+
+""Inclusion Criterion 7"" — ""laboratory and ECG"" — ""screening laboratory tests and ECG without significant abnormalities""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 8""
+
+""Inclusion Criterion 8"" — ""cholinesterase inhibitor use"" — ""allowed use of cholinesterase inhibitors (Aricept, Namenda, etc.)""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 9""
+
+""Inclusion Criterion 9"" — ""informed consent support"" — ""family member or caregiver available for informed consent and study participation support""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""neurological/physical illness"" — ""evidence of major neurological or physical illness causing cognitive deterioration (except for MCI, stroke, or diabetes)""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""cardiovascular condition"" — ""myocardial infarction within the previous year or unstable cardiac disease""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""medical conditions"" — ""uncontrolled hypertension, liver disease, pulmonary disease, diabetes, or cancer""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""psychiatric disorders"" — ""major psychiatric disorders (bipolar disorder, schizophrenia) or untreated major depression""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""substance abuse"" — ""current diagnosis or significant history of alcoholism or drug dependence""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""cognitive-influencing medications"" — ""medications known to influence cognitive functioning""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 7""
+
+""Exclusion Criterion 7"" — ""medication examples"" — ""centrally active beta-blockers, narcotics, clonidine, anti-Parkinsonian medications, benzodiazepines, systemic corticosteroids, anticholinergics, anti-convulsants, warfarin""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 8""
+
+""Exclusion Criterion 8"" — ""investigational drugs"" — ""use of any investigational drugs within the previous month or longer, depending on the drug's half-life""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 9""
+
+""Exclusion Criterion 9"" — ""fMRI contraindication"" — ""contraindication for fMRI scan (e.g., metal in body, claustrophobia)"""
+"Inclusion Criteria:
+
+(1) Interval between PET/CT imaging and 125I seed implantation ≤4 weeks; (2)CT follow-up performed 4 months post-125I seed implantation; (3) Primary tumor pathologically or cytologically diagnosed as malignant; (4) Metastatic or recurrent lesions implanted with 125I confirmed by cytological aspiration or imaging
+
+Exclusion Criteria:
+
+(1) Lesions too small or SUVmax \< 2.5, rendering them unidentifiable by software for PET/CT parameter measurement; (2) Two 125I seed implantation procedures performed within 6 months for the same lesion; (3) Incomplete clinical or imaging data.","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""time interval"" — ""≤4 weeks""
+
+""Inclusion Criterion 1"" — ""event 1"" — ""PET/CT imaging""
+
+""Inclusion Criterion 1"" — ""event 2"" — ""125I seed implantation""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""imaging time point"" — ""4 months post-125I seed implantation""
+
+""Inclusion Criterion 2"" — ""imaging modality"" — ""CT follow-up""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""tumor diagnosis"" — ""primary tumor""
+
+""Inclusion Criterion 3"" — ""diagnosis method"" — ""pathologically diagnosed""
+
+""Inclusion Criterion 3"" — ""diagnosis method"" — ""cytologically diagnosed""
+
+""Inclusion Criterion 3"" — ""diagnosis confirmation"" — ""malignant""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""lesion status"" — ""metastatic or recurrent lesions""
+
+""Inclusion Criterion 4"" — ""lesion treatment"" — ""implanted with 125I""
+
+""Inclusion Criterion 4"" — ""confirmation method"" — ""cytological aspiration""
+
+""Inclusion Criterion 4"" — ""confirmation method"" — ""imaging""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""lesion size"" — ""too small""
+
+""Exclusion Criterion 1"" — ""SUVmax"" — ""< 2.5""
+
+""Exclusion Criterion 1"" — ""consequence"" — ""unidentifiable by software for PET/CT parameter measurement""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""implantation procedure count"" — ""two 125I seed implantation procedures""
+
+""Exclusion Criterion 2"" — ""time window"" — ""within 6 months""
+
+""Exclusion Criterion 2"" — ""target"" — ""same lesion""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""data completeness"" — ""incomplete clinical data""
+
+""Exclusion Criterion 3"" — ""data completeness"" — ""incomplete imaging data"""
+"Inclusion Criteria:
+
+* Admitted to an ICU participating in this study between February 1, 2020 and April 30, 2020
+* Confirmed with reverse transcriptase polymerase chain reaction (RT-PCR) COVID-19 infection
+* Having had received invasive ventilation
+* Having had examined at least once with lung ultrasound under invasive ventilation
+
+Exclusion Criteria:
+
+* Age \<18 years
+* First examination with LUS in patients already under extracorporeal membrane oxygenation (ECMO) support.","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""admission period"" — ""February 1, 2020 to April 30, 2020""
+
+""Inclusion Criterion 1"" — ""ICU location"" — ""ICU participating in this study""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""diagnosis"" — ""confirmed COVID-19 infection""
+
+""Inclusion Criterion 2"" — ""diagnostic method"" — ""reverse transcriptase polymerase chain reaction (RT-PCR)""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""treatment"" — ""invasive ventilation""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""imaging procedure"" — ""lung ultrasound""
+
+""Inclusion Criterion 4"" — ""imaging procedure timing"" — ""at least once during invasive ventilation""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""age"" — ""less than 18 years""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""LUS timing"" — ""first examination with LUS during extracorporeal membrane oxygenation (ECMO) support"""
+"Inclusion Criteria:
+
+\- gestational age ≥32 weeks
+
+Exclusion Criteria:
+
+* gestational age \< 32 weeks,
+* presence of significant congenital anomalies,
+* intubated neonate,
+* unstable neonate.","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""gestational age"" — ""≥ 32 weeks""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""gestational age"" — ""< 32 weeks""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""anomaly"" — ""significant congenital anomalies""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""ventilation status"" — ""intubated neonate""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""clinical stability"" — ""unstable neonate"""
+"Inclusion Criteria:
+
+1. Patient (male/female) hospitalized at the Children's Hospital of Philadelphia (CHOP).
+2. Patient 17 years of age or younger.
+3. Diagnosis of COVID-19 or high clinical suspicion for COVID-19 despite negative tests (according to the definition of probable case by the European Centre for Disease Prevention and Control).
+4. Patients have evidence of cardiovascular compromise, myocardial injury, acute kidney injury and/or new-onset neurological symptoms.
+5. Parental/guardian permission (informed consent)
+
+Exclusion Criteria:
+
+1\. Medical history of Lumason hypersensitivity","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""location"" — ""hospitalized at Children's Hospital of Philadelphia (CHOP)""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""age"" — ""17 years of age or younger""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""diagnosis"" — ""diagnosis of COVID-19 or high clinical suspicion for COVID-19 (probable case according to ECDC definition)""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""complications"" — ""evidence of cardiovascular compromise, myocardial injury, acute kidney injury, and/or new-onset neurological symptoms""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 5""
+
+""Inclusion Criterion 5"" — ""consent"" — ""parental/guardian permission (informed consent)""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""allergy"" — ""medical history of Lumason hypersensitivity"""
+"Inclusion Criteria:
+
+* progressive stage of multiple sclerosis (both secondary and primary, SMP)
+* patients in relapsing-remitting multiple sclerosis (RRMS)
+
+Exclusion Criteria:
+
+* a disability greater than 7
+* patients with a cognitive impairment interfering with full study participation (Minimental score less than 24)
+* patients with internal medical problems that in the opinion of the investigator may interfere with full participation and collaboration
+* inability to undergo MRI or PET examinations
+* ongoing pregnancy and lactation","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""disease stage"" — ""progressive stage of multiple sclerosis (both secondary and primary, SMP)""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""disease subtype"" — ""relapsing-remitting multiple sclerosis (RRMS)""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""disability level"" — ""disability greater than 7""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""cognitive impairment"" — ""cognitive impairment interfering with full study participation (Mini-Mental score less than 24)""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""internal medical problems"" — ""internal medical problems that in the opinion of the investigator may interfere with full participation and collaboration""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""imaging limitations"" — ""inability to undergo MRI or PET examinations""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""pregnancy/lactation"" — ""ongoing pregnancy and lactation"""
+"Inclusion Criteria:
+
+* Patient acceptance.
+* American Society of Anesthesiologists (ASA) I and (ASA) II.
+* Age 21-60 years old.
+* Both gender.
+* BMI \< 30.
+* Accepted mental state of the patient.
+* Unilateral upper limb surgeries below the level of the shoulder.
+
+Exclusion Criteria:
+
+* Patient refusal.
+* Peripheral neuropathy.
+* Pathological coagulopathy.
+* Infection at the injection site.
+* History of active substance abuse.
+* Untreated pneumothorax.
+* Disturbed conscious level.
+* An allergy to local anesthetics or nalbuphine or dexamethasone.
+* Planned for receiving general anesthesia during the same operation for any cause.","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""consent"" — ""Patient acceptance""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""ASA grade"" — ""American Society of Anesthesiologists (ASA) I or II""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""age"" — ""21-60 years old""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""gender"" — ""Both genders""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 5""
+
+""Inclusion Criterion 5"" — ""BMI"" — ""BMI < 30""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 6""
+
+""Inclusion Criterion 6"" — ""mental state"" — ""Accepted mental state of the patient""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 7""
+
+""Inclusion Criterion 7"" — ""surgery type"" — ""Unilateral upper limb surgeries below the level of the shoulder""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""consent"" — ""Patient refusal""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""neuropathy"" — ""Peripheral neuropathy""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""coagulation"" — ""Pathological coagulopathy""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""infection"" — ""Infection at the injection site""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""substance abuse"" — ""History of active substance abuse""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""pneumothorax"" — ""Untreated pneumothorax""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 7""
+
+""Exclusion Criterion 7"" — ""consciousness"" — ""Disturbed conscious level""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 8""
+
+""Exclusion Criterion 8"" — ""allergy"" — ""Allergy to local anesthetics, nalbuphine, or dexamethasone""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 9""
+
+""Exclusion Criterion 9"" — ""general anesthesia"" — ""Planned for receiving general anesthesia during the same operation for any cause"""
+"Inclusion Criteria:
+
+* Subjects aged between 18 and 55 years who have undergone surgery for an anterior cruciate ligament (ACL) in a period of time between 2 and 6 weeks of evolution with or without meniscal injury (meniscal regularization / meniscal suture / meniscectomy, etc.).
+* have pain or loss of sensitivity in the operated knee and that they have signed the informed consent.
+
+Exclusion Criteria:
+
+* Subjects with chronic joint disease; prosthesis or osteosynthesis in the intervention area, as well as heart disease, neoplasia and coagulopathy.
+* Subjects consuming analgesics.
+* Subjects with belonephobia or insurmountable fear of needles
+* History of lumbar pathology (lumbar hernia/protrusion) due to possible involvement of the lumbar plexus.
+* Subjects with a history of neurological or orthopedic disorders
+* Subjects with bilateral symptoms.
+* Subjects with epilepsy, pacemaker or pregnant.","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""age requirement"" — ""subjects aged between 18 and 55 years""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""surgical history requirement"" — ""undergone surgery for anterior cruciate ligament (ACL) between 2 and 6 weeks prior""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""meniscal injury"" — ""with or without meniscal injury (regularization, suture, meniscectomy, etc.)""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""symptom requirement"" — ""have pain or loss of sensitivity in the operated knee""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 5""
+
+""Inclusion Criterion 5"" — ""consent requirement"" — ""signed informed consent""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""chronic joint disease exclusion"" — ""subjects with chronic joint disease, prosthesis or osteosynthesis in the intervention area, heart disease, neoplasia, or coagulopathy""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""analgesic use exclusion"" — ""subjects consuming analgesics""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""needle phobia exclusion"" — ""subjects with belonephobia or insurmountable fear of needles""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""lumbar pathology exclusion"" — ""history of lumbar pathology (hernia/protrusion) due to possible involvement of the lumbar plexus""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""neurological/orthopedic exclusion"" — ""history of neurological or orthopedic disorders""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""bilateral symptoms exclusion"" — ""subjects with bilateral symptoms""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 7""
+
+""Exclusion Criterion 7"" — ""epilepsy/pacemaker/pregnancy exclusion"" — ""subjects with epilepsy, pacemaker, or pregnant"""
+"Inclusion Criteria:
+
+. The inclusion criteria for the PFPS group were that the patients had knee pain for at least 3 month, unilateral pain, no history of knee surgery, no systemic disease, and no clinical symptoms of other knee pathologies other than PFPS. In order to exclude other pathologies that cause knee pain; patellar plica tests, Apley compression and distraction tests, McMurray tests, varus-valgus stress tests, anterior and posterior drawer tests, pivot shift and Lachman tests were performed. Those with positive results in these tests were excluded from the study.
+
+The inclusion criteria for the control group were absence of anterior knee pain, no history of knee surgery, and no systemic disease.
+
+Exclusion Criteria:
+
+Individuals with clinical symptoms related to other knee pathologies, history of trauma, history of patellar dislocation or subluxation, passive motion restriction in the knee joint, hip-spine related pain, the presence of any neurological disease affecting the extremities, inflammatory disease were excluded.","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""PFPS group"" — ""knee pain for ≥3 months, unilateral, no knee surgery, no systemic disease, no clinical symptoms of other knee pathologies besides PFPS""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""PFPS group"" — ""negative results on patellar plica, Apley compression/distraction, McMurray, varus-valgus stress, anterior/posterior drawer, pivot shift, and Lachman tests""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""Control group"" — ""absence of anterior knee pain, no knee surgery, no systemic disease""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""other knee pathologies"" — ""clinical symptoms related to other knee pathologies""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""trauma history"" — ""history of trauma""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""patellar dislocation/subluxation"" — ""history of patellar dislocation or subluxation""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""passive motion restriction"" — ""passive motion restriction in the knee joint""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""hip/spine pain"" — ""hip-spine related pain""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""neurological disease"" — ""presence of any neurological disease affecting the extremities""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 7""
+
+""Exclusion Criterion 7"" — ""inflammatory disease"" — ""inflammatory disease"""
+"Inclusion Criteria:
+
+* Diagnosis of Muscle Invasive Urothelial Carcinoma of the bladder (classified at least pT2 on TURB)
+* Diagnosis between January 2005 and December 2017
+* PET CT done during initial assessment before surgery (at the time of diagnosis and/or after neoadjuvant chemotherapy)
+* Management of cancer at Institut Bergonié or at Bordeaux University Hospital
+* Previous treatment for Non Muscle Invasive Bladder Cancer allowed
+
+Exclusion Criteria:
+
+* Management of cancer outside of Institut Bergonié or Bordeaux University Hospital
+* No PET CT done during initial assessment (before surgery)
+* Rare pathological type of bladder cancer without urothelial carcinoma (epidermoid carcinoma, neuro-endocrine carcinoma, …)
+* Extra-vesical urothelial carcinoma","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""diagnosis"" — ""Muscle Invasive Urothelial Carcinoma of the bladder (pT2 or higher on TURB)""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""diagnosis timeframe"" — ""diagnosis between January 2005 and December 2017""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""imaging"" — ""PET CT done during initial assessment before surgery (at diagnosis and/or after neoadjuvant chemotherapy)""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""treatment location"" — ""management of cancer at Institut Bergonié or Bordeaux University Hospital""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 5""
+
+""Inclusion Criterion 5"" — ""prior treatment"" — ""previous treatment for Non Muscle Invasive Bladder Cancer allowed""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""treatment location"" — ""management of cancer outside of Institut Bergonié or Bordeaux University Hospital""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""imaging"" — ""no PET CT done during initial assessment before surgery""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""pathology"" — ""rare pathological type of bladder cancer without urothelial carcinoma (epidermoid carcinoma, neuro-endocrine carcinoma, …)""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""tumor location"" — ""extra-vesical urothelial carcinoma"""
+"Inclusion Criteria:
+
+* Physical status American society Anesthesiologists ASA II and III.
+* Age ≥ 18 and ≤ 60 Years.
+* Patient undergoing thyroidectomy for cancer surgery.
+
+Exclusion Criteria:
+
+* Patient refusal.
+* Known sensitivity or contraindication to local anesthetics or dexmedetomidine.
+* History of psychological disorders.
+* Retro-sternal goiter and altered anatomical landmarks.
+* Localized infection at the site of block.
+* Coagulopathy with international normalized ratio (INR) ≥ 1.6: hereditary (e.g., hemophilia, fibrinogen abnormalities \& deficiency of factor II) - acquired (e.g., impaired liver functions with prothrombin concentration less than 60 %, vitamin K deficiency \& therapeutic anticoagulants drugs).","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""ASA physical status"" — ""ASA II and III""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""age"" — ""≥ 18 and ≤ 60 years""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""surgery type"" — ""thyroidectomy for cancer""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""patient refusal"" — ""Yes""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""drug sensitivity"" — ""known sensitivity or contraindication to local anesthetics or dexmedetomidine""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""psychological history"" — ""history of psychological disorders""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""anatomical"" — ""retro-sternal goiter and altered anatomical landmarks""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""infection"" — ""localized infection at the site of block""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""coagulopathy"" — ""coagulopathy with INR ≥ 1.6 (hereditary or acquired)"""
+"Inclusion Criteria:
+
+1. 18 \~ 80 years old;
+2. Under deep sedation (RASS score ≤ -3) with mechanical ventilation at the time of enrollment;
+3. Acute Physiology and Chronic Health Evaluation II (APACHE-II) score ≥8.
+
+Exclusion Criteria:
+
+1. Pregnancy;
+2. Recent gastrointestinal surgery;
+3. History of acute or chronic gastrointestinal dysfunction before ICU admission;
+4. Primary or secondary vascular malformation of SMA;
+5. Any contraindication to the use of ultrasound evaluation (e.g., abdominal incision).","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""age"" — ""18 to 80 years old""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""sedation"" — ""deep sedation (RASS score ≤ -3) with mechanical ventilation""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""APACHE-II score"" — ""≥ 8""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""pregnancy"" — ""pregnancy""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""recent surgery"" — ""recent gastrointestinal surgery""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""gastrointestinal dysfunction"" — ""history of acute or chronic gastrointestinal dysfunction before ICU admission""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""vascular malformation"" — ""primary or secondary vascular malformation of SMA""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""ultrasound contraindication"" — ""any contraindication to ultrasound evaluation (e.g., abdominal incision)"""
+"Inclusion Criteria:
+
+* Patients ≥18 years-old
+* Patient with hematological malignancy
+* Proven or probable invasive pulmonary aspergillosis according to EORTC/MSG modified criteria
+* Inclusion ≤ 4 days (≤ 5 days in case of week end) after IPA diagnosis
+* Possibility to perform 18F-FDG-PET/CT scanner within the 7 subsequent days following diagnosis
+* Informed consent form signed
+* Affiliation to French social insurance
+
+Exclusion Criteria:
+
+* Pregnancy or breastfeeding women
+* Life expectancy \< 3 months
+* Fungal or mycobacterial lung co infection at time of IPA diagnosis
+* Haematological malignancy with lung location
+* Proven or probable mold infection in 6 previous months
+* Disseminated aspergillosis (lung and sinus aspergillosis can be included)","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""age requirement"" — ""≥18 years old""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""diagnosis"" — ""hematological malignancy""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""diagnosis"" — ""proven or probable invasive pulmonary aspergillosis (IPA)""
+
+""Inclusion Criterion 3"" — ""diagnosis criteria"" — ""EORTC/MSG modified criteria""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""diagnosis timing"" — ""inclusion ≤ 4 days after IPA diagnosis""
+
+""Inclusion Criterion 4"" — ""diagnosis timing exception"" — ""≤ 5 days after IPA diagnosis in case of weekend""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 5""
+
+""Inclusion Criterion 5"" — ""imaging requirement"" — ""possibility to perform 18F-FDG-PET/CT scan within 7 days following diagnosis""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 6""
+
+""Inclusion Criterion 6"" — ""consent status"" — ""signed informed consent form""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 7""
+
+""Inclusion Criterion 7"" — ""insurance affiliation"" — ""affiliation to French social insurance""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""excludes patients who are"" — ""pregnant""
+
+""Exclusion Criterion 1"" — ""excludes patients who are"" — ""breastfeeding""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""life expectancy"" — ""life expectancy < 3 months""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""co-infection"" — ""fungal or mycobacterial lung co-infection at time of IPA diagnosis""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""malignancy location"" — ""hematological malignancy with lung location""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""prior mold infection"" — ""proven or probable mold infection in the 6 previous months""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""disseminated aspergillosis"" — ""disseminated aspergillosis (lung and sinus aspergillosis can be included)"""
+"Inclusion Criteria:
+
+1. Subjects aged ≥ 18 years
+2. Presenting IE ""Duke-Li definite - Duke-Li possible"" or strong suspicion of IE ""Duke-Li not definite or possible, with initiation of IE antibiotic therapy"".
+3. Transthoracic or transesophageal ultrasound performed.
+4. A stable clinical condition which does not require immediate surgery or contraindicate patient mobilization
+5. Absence of cardiac surgery for the current IE episode
+6. Covered by the French health insurance system
+7. Having given and signed the written study informed consent to the study.
+
+Exclusion Criteria:
+
+1. Patient having already had a 18-FDG PET/CT in the current episode
+2. Contraindication to perform a 18-FDG PET/CT
+3. Early prosthetic valve IE (cardiac surgery within last 2 months)
+4. Inability to understand the information form
+5. Pregnant or lactating woman.
+6. Cardiac surgery between inclusion and 18-FDG PET/CT
+7. Participation to any clinical trial including 18-FDG PET/CT","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""age requirement"" — ""≥ 18 years""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""diagnosis"" — ""IE""
+
+""Inclusion Criterion 2"" — ""Duke-Li classification"" — ""definite""
+
+""Inclusion Criterion 2"" — ""Duke-Li classification"" — ""possible""
+
+""Inclusion Criterion 2"" — ""strong suspicion"" — ""Duke-Li not definite or possible, with initiation of IE antibiotic therapy""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""imaging modality"" — ""transthoracic ultrasound""
+
+""Inclusion Criterion 3"" — ""imaging modality"" — ""transesophageal ultrasound""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""clinical status"" — ""stable""
+
+""Inclusion Criterion 4"" — ""surgical requirement"" — ""does not require immediate surgery""
+
+""Inclusion Criterion 4"" — ""mobility"" — ""does not contraindicate patient mobilization""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 5""
+
+""Inclusion Criterion 5"" — ""surgical history"" — ""absence of cardiac surgery for the current IE episode""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 6""
+
+""Inclusion Criterion 6"" — ""insurance status"" — ""covered by the French health insurance system""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 7""
+
+""Inclusion Criterion 7"" — ""consent status"" — ""written informed consent given""
+
+""Inclusion Criterion 7"" — ""consent documentation"" — ""signed""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""prior imaging"" — ""already had a 18-FDG PET/CT in the current episode""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""imaging contraindication"" — ""contraindication to perform a 18-FDG PET/CT""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""prosthetic valve IE"" — ""early prosthetic valve IE (cardiac surgery within last 2 months)""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""understanding"" — ""inability to understand the information form""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""pregnancy"" — ""pregnant or lactating woman""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""surgical timing"" — ""cardiac surgery between inclusion and 18-FDG PET/CT""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 7""
+
+""Exclusion Criterion 7"" — ""concurrent trial"" — ""participation to any clinical trial including 18-FDG PET/CT"""
+"Inclusion Criteria:
+
+* All patients who have been diagnosed with acute pulmonary embolism on the Aquilion One Genesis scan (Toshiba, Medical System, Tokyo, Japan) at the Brest University Hospital, and who have had a mapping of the iodine derived from the subtraction images.
+
+Exclusion Criteria:
+
+* Tomoscintigraphy not feasible within 24 hours.
+* Massive pulmonary embolism or with signs of gravity
+* Pregnant or lactating women
+* Minor patient
+* Protected adults
+* Incapacity / refusal to give consent
+* Hypersensitivity to pertechnetate (99m Tc)
+* Hypersensitivity to human albumin","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""diagnosis"" — ""acute pulmonary embolism""
+
+""Inclusion Criterion 1"" — ""imaging modality"" — ""Aquilion One Genesis scan""
+
+""Inclusion Criterion 1"" — ""manufacturer"" — ""Toshiba, Medical System, Tokyo, Japan""
+
+""Inclusion Criterion 1"" — ""location"" — ""Brest University Hospital""
+
+""Inclusion Criterion 1"" — ""imaging analysis"" — ""iodine mapping from subtraction images""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""imaging feasibility"" — ""tomoscintigraphy not feasible within 24 hours""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""severity"" — ""massive pulmonary embolism""
+
+""Exclusion Criterion 2"" — ""severity"" — ""signs of gravity""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""pregnancy/lactation"" — ""pregnant or lactating women""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""age"" — ""minor patient""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""legal status"" — ""protected adults""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""consent"" — ""incapacity / refusal to give consent""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 7""
+
+""Exclusion Criterion 7"" — ""allergy"" — ""hypersensitivity to pertechnetate (99m Tc)""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 8""
+
+""Exclusion Criterion 8"" — ""allergy"" — ""hypersensitivity to human albumin"""
+"Inclusion Criteria:
+
+* Cardiac Surgery with median sternotomy (valvular and coronary surgeries)
+
+Exclusion Criteria:
+
+* Minimal invasive cardiac surgeries
+* Revision surgeries (during postoperative 48 hours)
+* Redo cardiac surgeries
+* Any contraindications for regional anesthesia technique (any allergies for local anesthetics)
+* Preoperative chronic opioid usage","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""surgery type"" — ""Cardiac Surgery with median sternotomy""
+
+""Inclusion Criterion 1"" — ""surgery subtype"" — ""valvular and coronary surgeries""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""surgery type"" — ""minimal invasive cardiac surgeries""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""surgery type"" — ""revision surgeries""
+
+""Exclusion Criterion 2"" — ""surgery timing"" — ""within 48 hours postoperatively""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""surgery type"" — ""redo cardiac surgeries""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""anesthesia contraindication"" — ""any contraindications for regional anesthesia technique""
+
+""Exclusion Criterion 4"" — ""allergy"" — ""any allergies for local anesthetics""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""medication use"" — ""preoperative chronic opioid usage"""
+"Inclusion Criteria:
+
+* Pathologic confirmation of NSCLC at MSKCC
+* No prior treatment for this diagnosis of NSCLC
+* Patient to be treated with neoadjuvant chemotherapy (35 patients total) or patient to be treated with definitive RT,sequential chemo-RT, or concurrent chemo-RT (minimum dose of 50 Gy in 25 fractions) (25 patients total)
+* Tumor must measure ≥ 2cm on CT
+* Age ≥ 18 years
+* Ability to hold the breath for 10 seconds.
+* Karnofsky performance status ≥ 70%
+* Women of childbearing age must have a negative blood pregnancy test
+
+Exclusion Criteria:
+
+* Women who are pregnant or breast-feeding
+* Severe diabetes (fasting Blood Glucose \> 200 mg/dl)","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""diagnosis confirmation"" — ""pathologic confirmation of NSCLC at MSKCC""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""treatment history"" — ""no prior treatment for this diagnosis of NSCLC""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""treatment modality"" — ""neoadjuvant chemotherapy (35 patients)""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""treatment modality"" — ""definitive RT, sequential chemo-RT, or concurrent chemo-RT (minimum dose of 50 Gy in 25 fractions) (25 patients)""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 5""
+
+""Inclusion Criterion 5"" — ""tumor size"" — ""tumor must measure ≥ 2cm on CT""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 6""
+
+""Inclusion Criterion 6"" — ""age requirement"" — ""age ≥ 18 years""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 7""
+
+""Inclusion Criterion 7"" — ""breath hold capability"" — ""ability to hold breath for 10 seconds""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 8""
+
+""Inclusion Criterion 8"" — ""performance status"" — ""Karnofsky performance status ≥ 70%""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 9""
+
+""Inclusion Criterion 9"" — ""female reproductive status"" — ""women of childbearing age must have a negative blood pregnancy test""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""pregnancy status"" — ""women who are pregnant or breast-feeding""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""diabetes severity"" — ""severe diabetes (fasting Blood Glucose > 200 mg/dl)"""
+"Inclusion Criteria:
+
+* 18 to 70 years
+* Female
+* Presurgical validated breast cancer
+
+Exclusion Criteria:
+
+* Sonographically not defined report
+* Lobular breast cancer
+* Extensive ductal carcinoma in situ","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""age range"" — ""18 to 70 years""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""gender"" — ""female""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""diagnosis"" — ""presurgical validated breast cancer""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""imaging report"" — ""sonographically not defined""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""cancer type"" — ""lobular breast cancer""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""cancer type"" — ""extensive ductal carcinoma in situ"""
+"Inclusion Criteria:
+
+* Patients more of 65 years of age with femur fracture undergoing urgent surgery
+* patients can undergo spinal anaesthesia
+
+Exclusion Criteria:
+
+* Absent consent, patients with acute heart failure or recent major cardiac events (\< 6 months), known pulmonary parenchyma diseases (including pneumonia), general anaesthesia during surgery","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""age"" — ""more than 65 years of age""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""fracture"" — ""femur fracture""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""surgery type"" — ""undergoing urgent surgery""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""anesthesia type"" — ""able to undergo spinal anesthesia""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""consent"" — ""absent consent""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""cardiac condition"" — ""acute heart failure or recent major cardiac events (<6 months)""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""pulmonary condition"" — ""known pulmonary parenchyma diseases (including pneumonia)""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""anesthesia type"" — ""general anesthesia during surgery"""
+"Inclusion Criteria:
+
+* Patients surgically treated with transoral robotic surgery for oropharyngeal squamous cell carcinoma.
+
+Exclusion Criteria:
+
+* Patients from the QOLATI trial (NCT04124198)","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""surgical procedure"" — ""transoral robotic surgery for oropharyngeal squamous cell carcinoma""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""prior trial participation"" — ""patients from the QOLATI trial (NCT04124198)"""
+"Inclusion Criteria:
+
+* American Society of Anesthesiologist's physiologic state I-III patients
+* Laparoscopic cholecystectomy
+
+Exclusion Criteria:
+
+* Chronic pain bleeding disorders renal or hepatic insufficiency patients on chronic non-steroidal anti-inflammatory medications emergency cases","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""ASA status"" — ""American Society of Anesthesiologist's physiologic state I-III""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""surgery type"" — ""laparoscopic cholecystectomy""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""chronic conditions"" — ""chronic pain, bleeding disorders, renal or hepatic insufficiency""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""medication use"" — ""patients on chronic non-steroidal anti-inflammatory medications""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""urgency"" — ""emergency cases"""
+"DISEASE CHARACTERISTICS:
+
+* Histologically confirmed classical Hodgkin lymphoma (HL) meeting the following criteria:
+
+  * Meets current WHO classification criteria (i.e., nodular sclerosis, mixed cellularity, lymphocyte rich, and lymphocyte-depleted)
+  * Clinical stage IIB, III, or IV disease OR clinical stage IIA disease with adverse features, including any of the following:
+
+    * Bulk mediastinal disease, defined as maximal transverse diameter of mass \> 0.33 of the internal thoracic diameter at D5/6 interspace on routine chest x-ray
+    * Disease outside the mediastinum and lymph node or lymph node mass \> 10 cm in diameter
+    * More than two sites of disease
+    * Other poor-risk features that require treatment with full course combination chemotherapy
+* Newly diagnosed disease
+* No CNS or meningeal involvement by lymphoma
+
+PATIENT CHARACTERISTICS:
+
+* ECOG performance status 0-3
+* Life expectancy \> 3 months
+* ANC \> 1,500/mm\^3 (unless there is bone marrow infiltration by lymphoma)
+* Platelet count \> 100,000/mm\^3 (unless there is bone marrow infiltration by lymphoma)
+* Creatinine \< 150% of upper limit of normal (ULN)
+* Bilirubin \< 2.0 times ULN (unless attributed to lymphoma)
+* Transaminases \< 2.5 times ULN (unless attributed to lymphoma)
+* LVEF ≥ 50% (in patients with a significant history of ischemic heart disease or hypertension)
+* Diffusion capacity within 25% of normal predicted value by lung function testing
+* Not pregnant or nursing
+* Negative pregnancy test
+* Fertile patients must use effective contraception
+* Amenable to the administration of a full course of chemotherapy, according to the investigator
+* Must have access to PET/CT scanning
+* No poorly controlled diabetes mellitus
+* No cardiac contraindication to doxorubicin hydrochloride, including abnormal contractility by ECHO or MUGA
+* No neurological contraindication to chemotherapy (e.g., pre-existing neuropathy)
+* No other concurrent uncontrolled medical condition
+* No other active malignant disease within the past 10 years, except fully excised basal cell or squamous cell carcinoma of the skin or carcinoma in situ of the uterine cervix
+* No known positivity for HIV, hepatitis B surface antigen, or hepatitis C
+
+  * Routine testing, in the absence of risk factors, is not required
+* No medical or psychiatric condition that compromises the patient's ability to give informed consent
+
+PRIOR CONCURRENT THERAPY:
+
+* No prior chemotherapy, radiotherapy or other investigational drug for HL","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""disease"" — ""histologically confirmed classical Hodgkin lymphoma (HL)""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""WHO classification"" — ""meets current WHO classification criteria (nodular sclerosis, mixed cellularity, lymphocyte rich, and lymphocyte-depleted)""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""clinical stage"" — ""clinical stage IIB, III, or IV disease OR stage IIA with adverse features""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""adverse features"" — ""bulk mediastinal disease, disease outside mediastinum, >2 sites of disease, or other poor-risk features requiring full course chemotherapy""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 5""
+
+""Inclusion Criterion 5"" — ""diagnosis"" — ""newly diagnosed disease""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 6""
+
+""Inclusion Criterion 6"" — ""CNS involvement"" — ""no CNS or meningeal involvement by lymphoma""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 7""
+
+""Inclusion Criterion 7"" — ""performance status"" — ""ECOG performance status 0-3""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 8""
+
+""Inclusion Criterion 8"" — ""life expectancy"" — ""life expectancy > 3 months""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 9""
+
+""Inclusion Criterion 9"" — ""ANC"" — ""ANC > 1,500/mm^3 (unless bone marrow infiltration by lymphoma)""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 10""
+
+""Inclusion Criterion 10"" — ""platelet count"" — ""platelet count > 100,000/mm^3 (unless bone marrow infiltration by lymphoma)""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 11""
+
+""Inclusion Criterion 11"" — ""creatinine"" — ""creatinine < 150% of ULN""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 12""
+
+""Inclusion Criterion 12"" — ""bilirubin"" — ""bilirubin < 2.0 times ULN (unless attributed to lymphoma)""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 13""
+
+""Inclusion Criterion 13"" — ""transaminases"" — ""transaminases < 2.5 times ULN (unless attributed to lymphoma)""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 14""
+
+""Inclusion Criterion 14"" — ""LVEF"" — ""LVEF ≥ 50% (in patients with significant history of ischemic heart disease or hypertension)""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 15""
+
+""Inclusion Criterion 15"" — ""lung function"" — ""diffusion capacity within 25% of normal predicted value by lung function testing""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 16""
+
+""Inclusion Criterion 16"" — ""pregnancy"" — ""not pregnant or nursing""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 17""
+
+""Inclusion Criterion 17"" — ""pregnancy test"" — ""negative pregnancy test""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 18""
+
+""Inclusion Criterion 18"" — ""contraception"" — ""fertile patients must use effective contraception""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 19""
+
+""Inclusion Criterion 19"" — ""chemotherapy"" — ""amenable to administration of a full course of chemotherapy""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 20""
+
+""Inclusion Criteria Set"" — ""Inclusion Criterion 20"" — ""PET/CT""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 21""
+
+""Inclusion Criterion 21"" — ""diabetes"" — ""no poorly controlled diabetes mellitus""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 22""
+
+""Inclusion Criterion 22"" — ""cardiac"" — ""no cardiac contraindication to doxorubicin hydrochloride""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 23""
+
+""Inclusion Criterion 23"" — ""neurological"" — ""no neurological contraindication to chemotherapy (e.g., pre-existing neuropathy)""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 24""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 25""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""prior therapy"" — ""no prior chemotherapy, radiotherapy or investigational drug for HL""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""disease"" — ""no prior HL"""
+"Inclusion Criteria:
+
+* 1\) 18 years old ≤ age ≤ 75 years old, regardless of gender;
+
+  2\) Based on the preoperative CT examination results, it is determined that the patient has at least one blood vessel that needs to be coagulated during the surgery, with a diameter greater than 5mm but less than or equal to 7mm;
+
+  3\) Before the start of the study, the patient is willing and able to sign an informed consent form approved by the ethics committee;
+
+  4\) The patient understands the clinical study, cooperates with the research procedure, and is willing to conduct postoperative follow-up according to the protocol.
+
+Exclusion Criteria:
+
+* 1\) Patient body mass index (BMI) ≥ 35.0 kg/m2;
+
+  2\) Prothrombin time greater than 5 seconds;
+
+  3\) Researchers have determined that the tumor may invade the target blood vessel, which may affect the operation or effectiveness of vascular occlusion and disconnection;
+
+  4\) Researchers have determined that there may be variations, deformities, or calcifications in the target vessel that may affect the evaluation of the primary endpoint, which may affect the operation or effectiveness of vascular occlusion and disconnection;
+
+  5\) Patients receive preoperative chemotherapy and radiation therapy;
+
+  6\) Patient's fasting blood glucose ≥ 11.1mmol/l;
+
+  7\) Hypertensive patients' blood pressure has not been effectively controlled, and their blood pressure is ≥ 140/90 millimeter of mercury （mmHg） in a stable state after medication;
+
+  8\) Pregnant or lactating women, or women with pregnancy plans during the trial period;
+
+  9\) Participated in other clinical studies within 3 months;
+
+  10\) Individuals with mental disorders and lack of autonomous behavioral ability;
+
+  11\) Other researchers believe that it is not suitable to participate in the experiment.","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""age"" — ""18 years old ≤ age ≤ 75 years old""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""vessel criteria"" — ""at least one blood vessel > 5mm and ≤ 7mm diameter""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""informed consent"" — ""signed informed consent form""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""BMI"" — ""BMI ≥ 35.0 kg/m2""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""coagulation"" — ""prothrombin time > 5 seconds""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""tumor invasion"" — ""tumor may invade target vessel""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""vessel variation"" — ""variations, deformities, or calcifications in target vessel""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""preoperative therapy"" — ""preoperative chemotherapy and radiation therapy""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""glucose"" — ""fasting blood glucose ≥ 11.1 mmol/l""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 7""
+
+""Exclusion Criterion 7"" — ""hypertension"" — ""uncontrolled blood pressure ≥ 140/90 mmHg""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 8""
+
+""Exclusion Criterion 8"" — ""pregnancy"" — ""pregnant or lactating women or women with pregnancy plans""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 9""
+
+""Exclusion Criterion 9"" — ""other studies"" — ""participated in other clinical studies within 3 months""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 10""
+
+""Exclusion Criterion 10"" — ""mental health"" — ""mental disorders and lack of autonomous behavioral ability""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 11""
+
+""Exclusion Criterion 11"" — ""investigator discretion"" — ""other researchers believe patient is not suitable for the experiment"""
+"Inclusion Criteria:
+
+1. Females age 8-18yrs seen in the ED at CCMC who are undergoing a trans-abdominal pelvic ultrasound to assess for ovarian torsion
+2. Ability of patient (if 18yrs) or parent/legal guardian to sign a written informed consent
+
+Exclusion Criteria:
+
+1. History of renal, genitourinary, or pelvic anomalies
+
+   a. Eg: Chronic kidney disease, anuria, vesicoureteral reflux, ureteral obstruction, urologic reconstructive surgery, suprapubic or pelvic surgery, indwelling urethral catheter, oophorectomy, bicornate uterus
+2. Patients with multiple chronic illnesses or systemic neurologic abnormality
+
+   a. Eg: Bronchopulmonary dysplasia, tracheostomy, gastrostomy tube dependence, cerebral palsy, severe developmental delay, mitochondrial disorder, congenital heart disease, cardiomyopathy, chronic kidney disease, diabetes
+3. Patients with known pregnancy
+4. Patients deemed to be critically ill
+
+   a. Mental status changes, signs of end organ damage, hypotension
+5. Contraindication to giving Furosemide
+
+   a. Allergy to sulfonamide medications, severe dehydration, hypotension, underlying electrolyte abnormality, underlying renal disease
+6. History of previous diuretic use within the past year
+7. Patients who self-report their bladder as being full at the time of enrollment","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""patient population"" — ""females age 8-18 years""
+
+""Inclusion Criterion 1"" — ""location"" — ""seen in the ED at CCMC""
+
+""Inclusion Criterion 1"" — ""procedure"" — ""undergoing trans-abdominal pelvic ultrasound to assess for ovarian torsion""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""consent"" — ""ability of patient (if 18 years) or parent/legal guardian to sign written informed consent""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""genitourinary/pelvic anomalies"" — ""history of renal, genitourinary, or pelvic anomalies""
+
+""Exclusion Criterion 1"" — ""examples"" — ""chronic kidney disease, anuria, vesicoureteral reflux, ureteral obstruction, urologic reconstructive surgery, suprapubic or pelvic surgery, indwelling urethral catheter, oophorectomy, bicornate uterus""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""multiple chronic illnesses/neurologic abnormality"" — ""patients with multiple chronic illnesses or systemic neurologic abnormality""
+
+""Exclusion Criterion 2"" — ""examples"" — ""bronchopulmonary dysplasia, tracheostomy, gastrostomy tube dependence, cerebral palsy, severe developmental delay, mitochondrial disorder, congenital heart disease, cardiomyopathy, chronic kidney disease, diabetes""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""pregnancy"" — ""known pregnancy""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""critical illness"" — ""patients deemed to be critically ill""
+
+""Exclusion Criterion 4"" — ""examples"" — ""mental status changes, signs of end organ damage, hypotension""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""furosemide contraindication"" — ""contraindication to giving furosemide""
+
+""Exclusion Criterion 5"" — ""examples"" — ""allergy to sulfonamide medications, severe dehydration, hypotension, underlying electrolyte abnormality, underlying renal disease""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""recent diuretic use"" — ""history of previous diuretic use within the past year""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 7""
+
+""Exclusion Criterion 7"" — ""bladder fullness"" — ""patients who self-report their bladder as being full at the time of enrollment"""
+"Inclusion Criteria:
+
+* Patients with neuroendocrine tumors who underwent a scheduled surgical procedure for small bowel resection
+
+Exclusion Criteria:
+
+* patients without preoperative CT scan
+* patients with abdominal resection performed in emergency","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""diagnosis"" — ""neuroendocrine tumors""
+
+""Inclusion Criterion 1"" — ""surgical procedure"" — ""scheduled surgical procedure for small bowel resection""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""imaging requirement"" — ""lack of preoperative CT scan""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""surgical urgency"" — ""abdominal resection performed in emergency"""
+"Inclusion Criteria:
+
+* diagnosed as recurrent disease or stage IV
+* has at least 1 measurable lesion by Response Evaluation Criteria in Solid Tumor (RECIST) Version 1.1
+
+Exclusion Criteria:
+
+* has predominantly squamous cell histology non-small cell lung cancer
+* had surgery for metastatic non-squamous non-small cell lung cancer (nsNSCLC)","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""disease stage"" — ""diagnosed as recurrent disease or stage IV""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""measurable lesion"" — ""has at least 1 measurable lesion by RECIST 1.1""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""histology"" — ""predominantly squamous cell histology non-small cell lung cancer""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""prior surgery"" — ""had surgery for metastatic non-squamous non-small cell lung cancer"""
+"Inclusion Criteria:
+
+* Over 18 years old
+* American Society of Anesthesiologists' (ASA) I-II-III
+
+Exclusion Criteria:
+
+* Patients with a history of chronic pain,
+* Previous hip joint surgery,
+* Unsuccessful PENG block or spinal anesthesia application,
+* Missing data in their records
+* History of bleeding diathesis
+* Increased intracranial pressure
+* Severe mitral and/or aortic stenosis
+* Allergic to the medications used","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""age"" — ""over 18 years old""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""ASA physical status"" — ""ASA I-II-III""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""medical history"" — ""history of chronic pain""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""surgical history"" — ""previous hip joint surgery""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""anesthesia history"" — ""unsuccessful PENG block or spinal anesthesia application""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""data availability"" — ""missing data in their records""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""bleeding disorder"" — ""history of bleeding diathesis""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""neurological condition"" — ""increased intracranial pressure""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 7""
+
+""Exclusion Criterion 7"" — ""cardiac condition"" — ""severe mitral and/or aortic stenosis""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 8""
+
+""Exclusion Criterion 8"" — ""allergy"" — ""allergic to the medications used"""
+"* Inclusion Criteria
+
+  * Males older than 40 years or females older than 40 and sterile or in post-menopausal age;
+  * willing and able to give informed consent for participation in the study;
+  * history of symptomatic and drug-refractory paroxysmal atrial fibrillation (AF);
+  * planned AF ablation on a clinical basis.
+* Exclusion Criteria
+
+  * age less than 40 years and more than 80 years;
+  * pregnancy, trying for a baby or breast feeding;
+  * any other significant disease or disorder which, in the opinion of the investigator, may either put the participants at risk because of participation in the study, or may influence the result of the study, or the participant's ability to participate in the study;
+  * documented allergy to iodinated contrast medium;
+  * renal insufficiency (eGFR\<30);
+  * weight exceeding the maximum load of the scanner (250kg).","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""age"" — ""Males >40 years or females >40 years and sterile or post-menopausal""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""consent"" — ""willing and able to give informed consent""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""diagnosis"" — ""history of symptomatic and drug-refractory paroxysmal atrial fibrillation (AF)""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""procedure"" — ""planned AF ablation on a clinical basis""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""age"" — ""age less than 40 years or greater than 80 years""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""pregnancy/lactation"" — ""pregnancy, trying to conceive, or breastfeeding""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""other medical conditions"" — ""any other significant disease or disorder that may put participants at risk, influence study results, or affect participation""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""allergy"" — ""documented allergy to iodinated contrast medium""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""renal function"" — ""renal insufficiency (eGFR < 30)""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""weight"" — ""weight exceeding the maximum load of the scanner (250 kg)"""
+"Inclusion Criteria:
+
+* Patient with suspected first episode of acute PE,
+* Age ≥ 18 years .
+* Insured patient.
+
+Exclusion Criteria:
+
+* Patients with a clinically suspected massive PE.
+* Contraindication to contrast media (including renal insufficiency with creatinine clearance \< 30 ml/min).
+* Inability to perform CTPA and V/Q PET/CT within 24 hours.
+* History of deep vein thrombosis or PE
+* Unable/unwilling to give informed consent.
+* Pregnancy / breast-feeding.
+* Patient under guardianship or curatorship","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""diagnosis"" — ""suspected first episode of acute PE""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""age"" — ""≥ 18 years""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""insurance status"" — ""insured patient""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""PE severity"" — ""clinically suspected massive PE""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""contrast media"" — ""contraindication to contrast media""
+
+""Exclusion Criterion 2"" — ""renal function"" — ""renal insufficiency with creatinine clearance < 30 ml/min""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""imaging feasibility"" — ""inability to perform CTPA and V/Q PET/CT within 24 hours""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""prior DVT/PE"" — ""history of deep vein thrombosis or PE""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""consent"" — ""unable/unwilling to give informed consent""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""pregnancy/lactation"" — ""pregnancy or breast-feeding""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 7""
+
+""Exclusion Criterion 7"" — ""legal status"" — ""patient under guardianship or curatorship"""
+"Inclusion Criteria:
+
+* Patients with suspected coronary artery disease with stable chest pain and intermediate pretest probability (10-60%) of CAD referred for conventional coronary angiography.
+
+""Stable chest pain"" defined as not:
+
+* being acute (= first appearance within the last 48 hours) or
+* instable (= a) first appearance with at least Canadian Cardiovascular Society Angina Grading Scale (CCS) Class III, b) progredient with at least 1 CCS Class to at least CCS Class III or, now at rest for at least 20 min) angina pectoris
+* Patients at least 30 years of age
+* Written informed consent
+
+Exclusion Criteria:
+
+* Patients on hemodialysis
+* No sinus rhythm
+* Pregnancy
+* Any medical condition that leads to the concern that participation is not in the best interest of health (e.g., extensive comorbidities)","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""diagnosis"" — ""suspected coronary artery disease""
+
+""Inclusion Criterion 1"" — ""symptom"" — ""stable chest pain""
+
+""Inclusion Criterion 1"" — ""pretest probability"" — ""intermediate (10-60%)""
+
+""Inclusion Criterion 1"" — ""procedure"" — ""referred for conventional coronary angiography""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""chest pain definition"" — ""stable""
+
+""Inclusion Criterion 2"" — ""excludes"" — ""acute chest pain""
+
+""Inclusion Criterion 2"" — ""excludes"" — ""unstable chest pain""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""age"" — ""at least 30 years""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""consent"" — ""written informed consent""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""excludes patients on"" — ""hemodialysis""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""cardiac rhythm"" — ""no sinus rhythm""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""pregnancy"" — ""pregnant""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""general health"" — ""any medical condition that raises concern about patient safety"""
+"Inclusion Criteria:
+
+* adult patients (aged 18 years or order);
+* patients with suspected or newly diagnosed or previously treated gastrointestinal tumors (supporting evidence may include MRI, CT, tumor markers and pathology report);
+* patients who had scheduled both 18F-FDG and 18F-AlF-FAPI PET/CT scans;
+* patients who were able to provide informed consent (signed by participant, parent or legal representative) and assent according to the guidelines of the Clinical Research Ethics Committee.
+
+Exclusion Criteria:
+
+* patients with non-malignant lesions;
+* patients with pregnancy;
+* the inability or unwillingness of the research participant, parent or legal representative to provide written informed consent.","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""age requirement"" — ""adult patients (aged 18 years or older)""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""tumor diagnosis"" — ""patients with suspected or newly diagnosed or previously treated gastrointestinal tumors (supporting evidence may include MRI, CT, tumor markers and pathology report)""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""imaging requirement"" — ""patients who had scheduled both 18F-FDG and 18F-AlF-FAPI PET/CT scans""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""consent requirement"" — ""patients who were able to provide informed consent (signed by participant, parent or legal representative) and assent according to the guidelines of the Clinical Research Ethics Committee""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""tumor type exclusion"" — ""patients with non-malignant lesions""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""pregnancy exclusion"" — ""patients with pregnancy""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""consent refusal exclusion"" — ""the inability or unwillingness of the research participant, parent or legal representative to provide written informed consent"""
+"Inclusion Criteria:
+
+* Patient above 18 years of age
+* Patient with a presumptive diagnosis of CAP according to attending ED physician
+* Patient experiencing at least one systemic sign (T°\>38°C or \< 36°C, HR\>90/min, RR\>20/min)
+* Patient experiencing one respiratory sign (cough, lateral chest pain, localized crackles, dyspnea) that recently appeared
+* Patient with a prior medical examination, the results have been or will be communicated
+* Patient gave written informed consent or in cases of emergency parent/ support person who gave written informed consent if he/she is present on the day of inclusion
+
+Exclusion Criteria:
+
+* Pregnancy
+* Patient with shock
+* Patient with respiratory distress and immune suppression
+* Patient with other criteria for immediate ICU referral to ICU
+* Patient with living conditions making it impossible to follow 28 days
+* Patient not affiliated with a social security system","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""age"" — ""greater than 18 years""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""diagnosis"" — ""presumptive diagnosis of CAP""
+
+""Inclusion Criterion 2"" — ""diagnosing physician"" — ""attending ED physician""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""systemic sign"" — ""temperature greater than 38°C or less than 36°C""
+
+""Inclusion Criterion 3"" — ""systemic sign"" — ""heart rate greater than 90 beats per minute""
+
+""Inclusion Criterion 3"" — ""systemic sign"" — ""respiratory rate greater than 20 breaths per minute""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""respiratory sign"" — ""cough""
+
+""Inclusion Criterion 4"" — ""respiratory sign"" — ""lateral chest pain""
+
+""Inclusion Criterion 4"" — ""respiratory sign"" — ""localized crackles""
+
+""Inclusion Criterion 4"" — ""respiratory sign"" — ""dyspnea""
+
+""Inclusion Criterion 4"" — ""onset"" — ""recently appeared""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 5""
+
+""Inclusion Criterion 5"" — ""prior medical examination"" — ""exists""
+
+""Inclusion Criterion 5"" — ""examination results"" — ""communicated or will be communicated""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 6""
+
+""Inclusion Criterion 6"" — ""consent"" — ""written informed consent""
+
+""Inclusion Criterion 6"" — ""consent alternative"" — ""written informed consent from parent/support person""
+
+""Inclusion Criterion 6"" — ""consent condition"" — ""if present on the day of inclusion""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""respiratory distress"" — ""present""
+
+""Exclusion Criterion 3"" — ""immune suppression"" — ""present""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""ICU referral criteria"" — ""other criteria for immediate ICU referral""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""living conditions"" — ""make it impossible to follow 28 days""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""social security affiliation"" — ""not affiliated with a social security system"""
+"Inclusion Criteria:
+
+* Both primiparous or multiparous breastfeeding women
+* BMI: ≤30-≥25 (14)
+* Immediate puerperium with normal or C - section non-premature childbirth (19)
+* Postnatal lactating mother with symptoms of breast engorgement
+
+Exclusion Criteria:
+
+* any breast infection, abscess, mastitis, breast cancer
+* torn/bleeding or crack nipples
+* any skin condition like dermatitis, psoriasis etc
+* non-lactating mothers
+* having heart pacemaker","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Study"" — ""has inclusion criteria"" — ""Breastfeeding Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Breastfeeding Exclusion Criteria Set""
+
+""Breastfeeding Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""parity"" — ""primiparous or multiparous""
+
+""Breastfeeding Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""BMI"" — ""25 ≤ BMI ≤ 30""
+
+""Breastfeeding Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""delivery type"" — ""immediate puerperium""
+
+""Inclusion Criterion 3"" — ""delivery type"" — ""normal or C-section""
+
+""Inclusion Criterion 3"" — ""delivery status"" — ""non-premature""
+
+""Breastfeeding Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""lactation status"" — ""postnatal lactating""
+
+""Inclusion Criterion 4"" — ""symptom"" — ""breast engorgement""
+
+""Breastfeeding Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""breast condition"" — ""breast infection""
+
+""Exclusion Criterion 1"" — ""breast condition"" — ""abscess""
+
+""Exclusion Criterion 1"" — ""breast condition"" — ""mastitis""
+
+""Exclusion Criterion 1"" — ""breast condition"" — ""breast cancer""
+
+""Breastfeeding Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""nipple condition"" — ""torn/bleeding or cracked nipples""
+
+""Breastfeeding Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""skin condition"" — ""dermatitis""
+
+""Exclusion Criterion 3"" — ""skin condition"" — ""psoriasis""
+
+""Breastfeeding Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""lactation status"" — ""non-lactating mothers""
+
+""Breastfeeding Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""medical device"" — ""heart pacemaker"""
+"Inclusion Criteria:
+
+* Males or females, Age ≥18 years
+* Thyroid Stimulating Hormone (TSH) within normal limits
+* Presence of thyroid nodule \>29 mm and ≤60 mm in the longest dimension on ultrasound imaging
+* Symptoms from thyroid nodule - tightness or pressure in neck, neck tenderness, neck pain, difficulty swallowing, voice changes, shortness of breath or cosmetic disfigurement
+* Solid thyroid nodule with less than 20% cystic component
+* Cytological benign nodule proven by previous biopsy within 2 years
+* Ability to place the laser tip inside the nodule and to keep vital structures (i.e. trachea and esophagus) outside the zone of injury. To achieve this safe zone, we will leave a minimum of 17 mm distance between the fiber tip anterior to the vital structures and 10 mm from the fiber tip in all other dimensions.
+* Not on anticoagulants or anticoagulants stopped for appropriate amount of time based on the pharmacology of the drug
+* Ability to understand and willingness to provide informed consent
+
+Exclusion Criteria:
+
+* Pregnancy
+* Diagnosis of Hyperthyroidism
+* Malignant thyroid nodule
+* Egg shell or coarse calcification in the thyroid nodule
+* Patient on anticoagulation which cannot be stopped due to medical reasons
+* Coagulopathy
+* Thyroid nodules in contact with trachea, esophagus or major blood vessels
+* Prior neck surgery
+* Prior radiation to head and neck
+* Previous radioactive iodine treatment
+* Current iodine supplementation
+* Current anti-thyroid medication
+* Biotin supplementation within 2 days prior to enrollment
+* Allergy to Ethyl chloride spray or lidocaine
+* Physical and psychological conditions that prevent safe administration of the procedure as determined by the investigator
+* Adults not able to consent
+* Prisoners
+* Individuals who cannot read and understand English","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""gender and age"" — ""Males or females, Age ≥18 years""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""TSH"" — ""Thyroid Stimulating Hormone (TSH) within normal limits""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""nodule size"" — ""Presence of thyroid nodule >29 mm and ≤60 mm in the longest dimension on ultrasound imaging""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""symptoms"" — ""Symptoms from thyroid nodule - tightness or pressure in neck, neck tenderness, neck pain, difficulty swallowing, voice changes, shortness of breath or cosmetic disfigurement""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 5""
+
+""Inclusion Criterion 5"" — ""nodule type"" — ""Solid thyroid nodule with less than 20% cystic component""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 6""
+
+""Inclusion Criterion 6"" — ""cytology"" — ""Cytological benign nodule proven by previous biopsy within 2 years""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 7""
+
+""Inclusion Criterion 7"" — ""procedural safety"" — ""Ability to place the laser tip inside the nodule and to keep vital structures (i.e. trachea and esophagus) outside the zone of injury. To achieve this safe zone, we will leave a minimum of 17 mm distance between the fiber tip anterior to the vital structures and 10 mm from the fiber tip in all other dimensions.""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 8""
+
+""Inclusion Criterion 8"" — ""anticoagulants"" — ""Not on anticoagulants or anticoagulants stopped for appropriate amount of time based on the pharmacology of the drug""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 9""
+
+""Inclusion Criterion 9"" — ""consent"" — ""Ability to understand and willingness to provide informed consent""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""pregnancy"" — ""Pregnancy""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""hyperthyroidism"" — ""Diagnosis of Hyperthyroidism""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""malignant nodule"" — ""Malignant thyroid nodule""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""calcification"" — ""Egg shell or coarse calcification in the thyroid nodule""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""anticoagulants"" — ""Patient on anticoagulation which cannot be stopped due to medical reasons""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""coagulopathy"" — ""Coagulopathy""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 7""
+
+""Exclusion Criterion 7"" — ""nodule location"" — ""Thyroid nodules in contact with trachea, esophagus or major blood vessels""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 8""
+
+""Exclusion Criterion 8"" — ""prior neck surgery"" — ""Prior neck surgery""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 9""
+
+""Exclusion Criterion 9"" — ""prior radiation"" — ""Prior radiation to head and neck""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 10""
+
+""Exclusion Criterion 10"" — ""radioactive iodine"" — ""Previous radioactive iodine treatment""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 11""
+
+""Exclusion Criterion 11"" — ""iodine supplementation"" — ""Current iodine supplementation""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 12""
+
+""Exclusion Criterion 12"" — ""anti-thyroid medication"" — ""Current anti-thyroid medication""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 13""
+
+""Exclusion Criterion 13"" — ""biotin"" — ""Biotin supplementation within 2 days prior to enrollment""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 14""
+
+""Exclusion Criterion 14"" — ""allergy"" — ""Allergy to Ethyl chloride spray or lidocaine""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 15""
+
+""Exclusion Criterion 15"" — ""medical conditions"" — ""Physical and psychological conditions that prevent safe administration of the procedure as determined by the investigator""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 16""
+
+""Exclusion Criterion 16"" — ""adult consent"" — ""Adults not able to consent""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 17""
+
+""Exclusion Criterion 17"" — ""prisoners"" — ""Prisoners""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 18""
+
+""Exclusion Criterion 18"" — ""language"" — ""Individuals who cannot read and understand English"""
+"Inclusion Criteria:
+
+To be eligible for the present study, patients must meet the following criteria:
+
+1. Able to provide written informed consent
+2. Willing to comply with protocol requirements
+3. At least 16 years of age
+4. Carry a diagnosis of VHL and able to undergo routine clinical screening tests for RCC
+
+Exclusion Criteria:
+
+1. Critically ill or medically unstable or in an intensive care setting and whose critical course during the observation period would be unpredictable
+2. Known hypersensitivity to sulfur hexafluoride or to any component of perflutren lipid (Definity®) or sulfur hexafluoride (Lumason®)
+3. Right to left shunt, severe pulmonary hypertension (Pulmonary artery pressure \>90mmHg), or adult respiratory distress syndrome
+4. Active cardiac disease including any of the following:
+
+   A. Severe congestive heart failure (class IV in accordance with the classification of the New York Heart Association) B.Unstable angina. C.Symptomatic arrhythmia (i.e. tachycardia, bradycardia, supraventricular tachycardia, ventricular fibrillation, ventricular tachycardia, atrial flutter or fibrillation).
+
+   D.Myocardial infarction within 14 days prior to the date of proposed microbubble administration.
+5. Has any other medical condition or other circumstances that would significantly decrease the chances of obtaining reliable data or of achieving the study objectives such as:
+
+   * Mental illness
+   * Drug abuse
+6. Female patient who is pregnant or lactating
+7. Obesity that limits obtainment of acceptable images","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""consent"" — ""able to provide written informed consent""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""compliance"" — ""willing to comply with protocol requirements""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""age"" — ""at least 16 years of age""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""diagnosis"" — ""diagnosis of VHL and able to undergo routine clinical screening tests for RCC""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""critical illness"" — ""critically ill, medically unstable, in intensive care, unpredictable course""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""allergy"" — ""known hypersensitivity to sulfur hexafluoride or any component of perflutren lipid (Definity®) or sulfur hexafluoride (Lumason®)""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""cardiac/pulmonary"" — ""right-to-left shunt, severe pulmonary hypertension (PAP >90mmHg), adult respiratory distress syndrome""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""active cardiac disease"" — ""severe congestive heart failure (NYHA class IV), unstable angina, symptomatic arrhythmia, myocardial infarction within 14 days""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""other conditions"" — ""other medical conditions or circumstances that would significantly decrease data reliability or study objectives""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""pregnancy/lactation"" — ""female patient who is pregnant or lactating""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 7""
+
+""Exclusion Criterion 7"" — ""obesity"" — ""obesity that limits obtainment of acceptable images"""
+"Inclusion Criteria:
+
+* American Society of Anesthesiologists (ASA) classification I-II-III
+* Scheduled for total hip artroplasty surgery under spinal anesthesia
+
+Exclusion Criteria:
+
+* Patients who did not want to participate in the study
+* Patients with cognitive dysfunction who cannot evaluate the NRS score and cannot use PCA
+* Known local anesthetics and opioid allergy,
+* Pregnancy or lactation
+* Patients with a contraindication to spinal and regional anesthesia
+* Presence of multiple fractures","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""ASA classification"" — ""I-II-III""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""surgery type"" — ""scheduled for total hip arthroplasty under spinal anesthesia""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""consent"" — ""did not want to participate in the study""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""cognitive function"" — ""cognitive dysfunction preventing NRS evaluation or PCA use""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""drug allergy"" — ""known allergy to local anesthetics and opioids""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""pregnancy/lactation"" — ""pregnancy or lactation""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""anesthesia contraindication"" — ""contraindication to spinal and regional anesthesia""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Criterion 6"" — ""multiple fractures"" — ""presence of multiple fractures"""
+"In this study, patients with lung nodules between 10 and 30 mm (under clinical IC or lower stage if it was a case of NSCLC) who are fit for surgery will be enrolled. The investigators will collect epidemiological data, including age, race, gender, Charlson Comorbidity Index, smoking history, medications taken, previous surgeries, significant diseases, BMI, and detailed parameters of the radiological size of the tumor preoperatively. Within two months before surgery, the investigators will conduct a contrast-enhanced chest CT, which will include the upper abdomen and lung function tests (FVC, FEV1, DLCO). Patients who had previous thoracic surgery, are under 18 or over 85 years of age, or have FVC or FEV1 less than 60% will be excluded. Any patient unsuitable for the complete preoperative diagnostic procedure will also be excluded (for example, where contrast material is contraindicated in chronic kidney failure). Pathological parameters of the lesion will be evaluated within four weeks after surgery. Imaging will be conducted at least during the one-month follow-up to monitor complications.
+
+Summary:
+
+Inclusion Criteria:
+
+* Aged from 18 to 85
+* 1-3 cm lung nodules
+* planned procedure VATS uniportal diagnostic wedge
+
+Exclusion Criteria:
+
+* Previous thoracic surgery
+* CCI greater than 12
+* Long-term steroid treatment","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""age"" — ""18 to 85 years""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""nodule size"" — ""lung nodules between 10 and 30 mm""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""surgical procedure"" — ""planned VATS uniportal diagnostic wedge""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""prior thoracic surgery"" — ""Yes""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""comorbidity"" — ""Charlson Comorbidity Index (CCI) greater than 12""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""steroid treatment"" — ""long-term steroid treatment"""
+"Inclusion Criteria:
+
+* History of head and neck cancer treated with radiotherapy. Radiotherapy target volume(s) must have included at least one region of the neck to a total dose of at least 45 gray (Gy).
+* At least 2 years since completion of radiotherapy with no evidence of disease at the time of last clinical follow-up.
+* Eligible by Screening Questionnaire.
+* Ability to understand and the willingness to sign an IRB-approved informed consent document (either directly or via a legally authorized representative).
+
+Exclusion Criteria:
+
+* Personal history of any of the following: Carotid artery stenosis on either side of the neck, stroke (CVA) or transient ischemic attack (TIA), carotid endarterectomy, carotid stent placement.
+* Prior carotid artery ultrasound examination between completion of radiotherapy and registration.
+* Most recent radiotherapy treatment was for any recurrence of a prior head and neck cancer and/or treatment for a subsequent head and neck cancer after diagnosis and treatment of an initial head and neck cancer.
+* Any history of re-irradiation to the head and neck region. Re-irradiation is defined as a subsequent individual course of radiotherapy where the target overlaps a region of the head/neck that was previously targeted by the initial course of radiotherapy.
+* ECOG Performance Status of 2 or greater.","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""treatment history"" — ""history of head and neck cancer treated with radiotherapy""
+
+""Inclusion Criterion 1"" — ""radiotherapy target"" — ""at least one neck region""
+
+""Inclusion Criterion 1"" — ""radiotherapy dose"" — ""≥ 45 Gy""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""time since radiotherapy"" — ""at least 2 years""
+
+""Inclusion Criterion 2"" — ""disease status"" — ""no evidence of disease at last clinical follow-up""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""screening"" — ""eligible by Screening Questionnaire""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""consent"" — ""ability to understand and willingness to sign IRB-approved informed consent""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""carotid artery history"" — ""personal history of carotid artery stenosis, stroke (CVA), TIA, carotid endarterectomy, or carotid stent placement""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""prior carotid ultrasound"" — ""prior carotid artery ultrasound examination between radiotherapy completion and registration""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""radiotherapy context"" — ""most recent radiotherapy was for recurrence of prior head and neck cancer or subsequent head and neck cancer after initial diagnosis and treatment""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""re-irradiation"" — ""any history of re-irradiation to the head and neck region""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""performance status"" — ""ECOG Performance Status of 2 or greater"""
+"Inclusion Criteria:
+
+* Participants who require CBCT-guided precutaneous lung puncture (PLP) and meet the clinical indications for the procedure.
+* Participants with pre-operation CT images available.
+* Participants whose physical condition is suitable for PLP.
+
+Exclusion Criteria:
+
+* Participants have metallic implants in the body, which severely affects the image quality.
+* Participants with a history of allergy or serious adverse reactions to iodine contrast media or other related drugs.
+* Participants are pregnant or breastfeeding.
+* Participants are unwilling or unable to sign informed consent.","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""procedure indication"" — ""require CBCT-guided precutaneous lung puncture (PLP) and meet clinical indications""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""imaging availability"" — ""pre-operation CT images available""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""physical suitability"" — ""physical condition suitable for PLP""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""metallic implants"" — ""metallic implants that severely affect image quality""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""allergy"" — ""history of allergy or serious adverse reactions to iodine contrast media or related drugs""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""pregnancy/lactation"" — ""pregnant or breastfeeding""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""consent"" — ""unwilling or unable to sign informed consent"""
+"Inclusion Criteria:
+
+1. The patient must have histologically confirmed HER2 positive invasive carcinoma of the breast in the reference laboratory of the participating center. HER2 positive criteria to be applied are those used in the participating countries:
+
+   * Belgium: FISH amplification ratio ≥ 2 in the reference laboratory of the participating center
+   * The Netherlands: IHC 3+ or FISH ratio ≥ 2 in the reference laboratory of the participating center
+2. The patient must have documented progressive disease and present with at least 2 non-bone ""target"" metastatic lesions, unequivocally of neoplastic origin with
+
+   * a transaxial diameter greater than 2 cm on the screening diagnostic CT/MRI for all non-bone lesions except lymphnodes
+   * a short axis greater than 1,5 cm for lymphnodes on the screening diagnostic CT/MRI These two lesions should not be confluent with adjacent lesions and not have been irradiated previously.
+3. A concurrent biopsy of a metastatic site is mandatory (with two formalin fixed paraffin embedded (FFPE) core sample and two snap frozen tumor sample) after progression has been documented and before inclusion and the patient agrees with the procedure.
+4. Primary tumor blocks (or 11 unstained slides) available for confirmatory central laboratory HER2 testing in Institut Jules Bordet. If available, a snap frozen sample of the primary tumor will also be centralized in Institut Jules Bordet.
+5. Age ≥ 18 years
+6. Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 to 1
+7. No significant cardiac history and current LVEF ≥ 50%
+8. Adequate organ function, evidenced by the following laboratory results:
+
+   * Absolute neutrophil count \> 1,500 cells/mm3
+   * Platelet count \> 100,000 cells/mm3
+   * Hemoglobin \> 9 g/dL
+   * AST(SGOT) and ALT (SGPT) \< 2.5 x ULN
+   * Total Bilirubin ≤ 1.5 x ULN unless the patient has documented Gilbert's syndrome. Patients with known Gilbert's Syndrome should have direct bilirubin within normal limits.
+   * Serum alkaline phosphatase ≤ 2.5 x ULN. Patients with bone metastases: alkaline phosphatase ≤ 5 x ULN
+   * Serum creatinine \< 2.0 mg/dL or 177 μmol/L
+   * International normalized ratio (INR) and activated partial thromboplastin time or partial thromboplastin time (aPTT or PTT) \< 1.5 x ULN (unless on therapeutic anti-coagulation except vitamin K antagonists which are prohibited in this study)
+9. Absence of any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule; those conditions should be discussed with the patient before registration in the trial.
+10. For women of childbearing potential a serum pregnancy test will be done (and it must be negative) and an agreement to use a highly-effective form of contraception during all the study and at least the following 7 months will be obtained.
+11. Signed written informed consent obtained prior to any study specific procedure.
+12. Completion of all necessary baseline surgical, laboratory and imaging investigations prior to patient inclusion.
+
+Exclusion Criteria:
+
+1. Patients with bone only metastases are not eligible.
+2. Diffuse liver (≥50%) involvement on imaging.
+3. Patients with brain metastasis as the sole site of metastatic disease and/or are symptomatic or require therapy to control symptoms NB: Brain metastasis are allowed provided they are asymptomatic and/or controlled by previous radiotherapy. In case of recent prior brain radiotherapy, there must be evidence on MRI imaging of brain metastatic control for at least 6 weeks since the end of radiotherapy. Moreover, the patient should be at the end of corticosteroid therapy and be clinically asymptomatic.
+4. Current uncontrolled hypertension despite medication intake (systolic \> 150 mmHg and/or diastolic \> 100 mmHg)
+5. Current unstable angina
+6. History of symptomatic CHF of any New York Heart Association (NYHA) criteria or ventricular arrhythmia that requires treatment
+7. History of myocardial infarction within the last 6 months
+8. History of a decrease in LVEF to \< 40% or symptomatic CHF with previous trastuzumab treatment
+9. Current dyspnea at rest due to complications of advanced malignancy, or other diseases that require continuous oxygen therapy
+10. Current severe, uncontrolled systemic disease (e.g., clinically significant cardiovascular, pulmonary, or metabolic disease; wound healing disorders; ulcers; or bone fractures)
+11. History of other malignancy within the last 5 years, except for appropriately treated carcinoma in situ of the cervix, non-melanoma skin carcinoma, Stage I uterine cancer, or other cancers with a similar outcome as those previously mentioned
+12. Pregnant or lactating women
+13. Concurrent, serious, uncontrolled infections or current known infection with HIV, active hepatitis B and/or hepatitis C.
+14. Known prior severe hypersensitivity to trastuzumab
+15. Patient who received lapatinib within the 15 days prior to 89Zr-Trastuzumab injection
+16. Patient under a prohibited concomitant therapy, including vitamine K antagonist
+17. Patients with a peripheral neuropathy Grade 3 or higher","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""HER2 status"" — ""histologically confirmed HER2 positive invasive carcinoma""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 5""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 6""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 7""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 8""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 9""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 10""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 11""
+
+""Inclusion Criteria"" — ""includes criterion"" — ""Inclusion Criterion 12""
+
+""Exclusion Criteria"" — ""Exclusion Criterion 1"" — ""bone metastases""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criteria"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Set"" — ""includes criterion"" — ""Exclusion Criterion 6""
+
+""Exclusion Set"" — ""includes criterion"" — ""Exclusion Criterion 7""
+
+""Exclusion Set"" — ""includes criterion"" — ""Exclusion Criterion 8""
+
+""Exclusion Set"" — ""includes criterion"" — ""Exclusion Criterion 9""
+
+""Exclusion Set"" — ""includes criterion"" — ""Exclusion Criterion 10""
+
+""Exclusion Set"" — ""includes criterion"" — ""Exclusion Criterion 11""
+
+""Exclusion Set"" — ""includes criterion"" — ""Exclusion Criterion 12""
+
+""Exclusion Set"" — ""includes criterion"" — ""Exclusion Criterion 13""
+
+""Exclusion Set"" — ""includes criterion"" — ""Exclusion Criterion 14""
+
+""Exclusion Set"" — ""includes criterion"" — ""Exclusion Criterion 15""
+
+""Exclusion Set"" — ""includes criterion"" — ""Exclusion Criterion 16""
+
+""Exclusion Set"" — ""includes criterion"" — ""Exclusion Criterion 17""
+
+""Exclusion Set"" — ""includes criterion"" — ""Exclusion Criterion 18""
+
+""Exclusion Set"" — ""includes criterion"" — ""Exclusion Criterion 19"""
+"Inclusion Criteria:
+
+* Men or women over 18 years of age.
+* Patients referred by their hepatologist within the framework of ultrasound screening according to the EASL hepato-cellular carcinoma screening recommendations.
+* Non-cirrhotic F3 hepatopathy of any cause according to an individual assessment of the risk of hepatocarcinoma.
+* Cirrhosis from any cause, non viral or virologically cured (HCV) or controlled (HBV).
+* Patient with hepatopathy proven by histological evidence or confirmed by an expert committee based on clinical, biological, ultrasound (hepato-cellular insufficiency, portal hypertension) and elastographic criteria.
+* Patient able to receive and understand the information relating to the study and to give his/her written informed consent.
+* Patient affiliated to the French social security system.
+
+Exclusion Criteria:
+
+* History of hepatocarcinoma
+* Patient with non-cirrhotic viral B hepatopathy or uncontrolled (HBV) or uncured (HCV) viral cirrhosis.
+* Patient under protection of justice, guardianship or trusteeship.
+* Patient in a situation of social fragility.
+* Patient subject to legal protection or unable to express consent","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""age"" — ""over 18 years""
+
+""Inclusion Criterion 1"" — ""gender"" — ""men or women""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 2""
+
+""Inclusion Criterion 2"" — ""referral source"" — ""hepatologist referral""
+
+""Inclusion Criterion 2"" — ""referral context"" — ""ultrasound screening""
+
+""Inclusion Criterion 2"" — ""screening guideline"" — ""EASL hepato-cellular carcinoma screening recommendations""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 3""
+
+""Inclusion Criterion 3"" — ""hepato-pathology"" — ""non-cirrhotic F3 hepatopathy""
+
+""Inclusion Criterion 3"" — ""cause"" — ""any cause""
+
+""Inclusion Criterion 3"" — ""risk assessment"" — ""individual assessment of risk of hepatocarcinoma""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 4""
+
+""Inclusion Criterion 4"" — ""cirrhosis"" — ""any cause""
+
+""Inclusion Criterion 4"" — ""viral status"" — ""non-viral""
+
+""Inclusion Criterion 4"" — ""viral status"" — ""virologically cured HCV""
+
+""Inclusion Criterion 4"" — ""viral status"" — ""controlled HBV""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 5""
+
+""Inclusion Criterion 5"" — ""hepato-pathology confirmation"" — ""histological evidence""
+
+""Inclusion Criterion 5"" — ""hepato-pathology confirmation"" — ""expert committee confirmation""
+
+""Inclusion Criterion 5"" — ""confirmation criteria"" — ""clinical""
+
+""Inclusion Criterion 5"" — ""confirmation criteria"" — ""biological""
+
+""Inclusion Criterion 5"" — ""confirmation criteria"" — ""ultrasound""
+
+""Inclusion Criterion 5"" — ""confirmation criteria"" — ""elastographic""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 6""
+
+""Inclusion Criterion 6"" — ""participant understanding"" — ""able to receive and understand study information""
+
+""Inclusion Criterion 6"" — ""consent status"" — ""written informed consent""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 7""
+
+""Inclusion Criterion 7"" — ""insurance affiliation"" — ""French social security system""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""excludes patients with"" — ""history of hepatocarcinoma""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""excludes patients with"" — ""non-cirrhotic viral B hepatopathy""
+
+""Exclusion Criterion 2"" — ""excludes patients with"" — ""uncontrolled HBV""
+
+""Exclusion Criterion 2"" — ""excludes patients with"" — ""uncured HCV cirrhosis""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""legal status"" — ""under protection of justice""
+
+""Exclusion Criterion 3"" — ""legal status"" — ""under guardianship""
+
+""Exclusion Criterion 3"" — ""legal status"" — ""under trusteeship""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 4""
+
+""Exclusion Criterion 4"" — ""social status"" — ""situation of social fragility""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 5""
+
+""Exclusion Criterion 5"" — ""legal status"" — ""subject to legal protection""
+
+""Exclusion Criterion 5"" — ""consent capacity"" — ""unable to express consent"""
+"Inclusion Criteria:
+
+* Radiologists/Radiographers/ED clinicians who review CT head scans as part of their clinical practice
+
+Exclusion Criteria:
+
+* Neuroradiologists.
+* Non-radiologist groups: Clinicians with previous formal postgraduate CT reporting training
+* Emergency Medicine group: Clinicians with previous career in radiology/neurosurgery to registrar level","""Study"" — ""has inclusion criteria"" — ""Inclusion Criteria Set""
+
+""Study"" — ""has exclusion criteria"" — ""Exclusion Criteria Set""
+
+""Inclusion Criteria Set"" — ""includes criterion"" — ""Inclusion Criterion 1""
+
+""Inclusion Criterion 1"" — ""profession"" — ""Radiologists""
+
+""Inclusion Criterion 1"" — ""profession"" — ""Radiographers""
+
+""Inclusion Criterion 1"" — ""profession"" — ""ED clinicians""
+
+""Inclusion Criterion 1"" — ""task"" — ""review CT head scans as part of clinical practice""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 1""
+
+""Exclusion Criterion 1"" — ""excludes"" — ""Neuroradiologists""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 2""
+
+""Exclusion Criterion 2"" — ""excludes"" — ""Non-radiologist groups""
+
+""Exclusion Criterion 2"" — ""excludes"" — ""Clinicians with previous formal postgraduate CT reporting training""
+
+""Exclusion Criteria Set"" — ""includes criterion"" — ""Exclusion Criterion 3""
+
+""Exclusion Criterion 3"" — ""excludes"" — ""Emergency Medicine group""
+
+""Exclusion Criterion 3"" — ""excludes"" — ""Clinicians with previous career in radiology/neurosurgery to registrar level"""

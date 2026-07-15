@@ -1,0 +1,14 @@
+# Large offline assets — downloaded per README §4, never committed
+models/
+hf_cache/
+nltk_data/
+*.gguf
+
+# Python / env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs & scratch
+*.log

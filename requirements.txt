@@ -1,0 +1,11 @@
+pandas
+openpyxl
+numpy
+scipy
+huggingface_hub
+transformers
+nltk
+# torch: install the CPU build ->  pip install torch --index-url https://download.pytorch.org/whl/cpu
+# llama-cpp-python: CPU build     ->  pip install llama-cpp-python
+torch
+llama-cpp-python
