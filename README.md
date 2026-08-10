@@ -1,5 +1,7 @@
 # CohortX Task 2 — Reproduction (Gemma-2-9B, LB 0.80)
 
+Challenge: https://www.kaggle.com/competitions/cohort-x-task-2/overview
+
 Transform free-text clinical-trial eligibility criteria into structured
 subject–predicate–object triples.
 
