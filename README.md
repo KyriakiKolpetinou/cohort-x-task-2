@@ -10,6 +10,7 @@ This repository reproduces our leaderboard submission
 **public score 0.80**. The method is **retrieval-augmented few-shot prompting with a
 frozen, pre-trained LLM — no fine-tuning, no external data** — and it runs **offline on
 CPU within 16 GB RAM**, satisfying the challenge's hardware/reproducibility requirements.
+Private score: 0.75
 
 - **Model:** Gemma-2-9B-it, Q4_K_M GGUF (~5.4 GB), run via `llama.cpp`.
 - **Retriever:** PubMedBERT (frozen), for few-shot example selection.
